@@ -1,2 +1,3 @@
 
 message = "Hi"
+print(message)
