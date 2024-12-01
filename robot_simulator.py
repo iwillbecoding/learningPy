@@ -20,7 +20,6 @@ def advance(_rob):
     return _rob
 
 
-
 def left(_rob):
     if _rob["dir"] == "north":
         _rob["dir"] = "west"
