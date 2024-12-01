@@ -1,3 +1,5 @@
+#not sure how to turn a robot and got stuck
 
-message = "Hi"
-print(message)
+robot = ""
+
+for i in robot:
