@@ -1,4 +1,5 @@
 # Please put your solution below
+# https://exercism.org/tracks/python/exercises/currency-exchange
 
 def exchange_money(budget, exchange_rate):    
   return budget / exchange_rate
